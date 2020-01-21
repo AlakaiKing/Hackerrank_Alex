@@ -15,7 +15,7 @@
 # staurt = 0
 #
 # for p in res:
-#     if p[0] in ('a','e','i','o','u','A','E','I','O','U'):
+#     if p[0] in ('A','E','I','O','U'):
 #         kevin += 1
 #     else:
 #         staurt += 1
