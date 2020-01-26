@@ -42,7 +42,6 @@ class Student(Person):
     #   Return: A character denoting the grade.
     #
     # Write your function here
-
 line = input().split()
 firstName = line[0]
 lastName = line[1]

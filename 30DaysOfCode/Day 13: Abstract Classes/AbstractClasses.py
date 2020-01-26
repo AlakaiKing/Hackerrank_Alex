@@ -18,7 +18,6 @@ class MyBook(Book):
         print ("Author: "+ self.author)
         print ("Price: "+ str(self.price))
 
-
 title=input()
 author=input()
 price=int(input())

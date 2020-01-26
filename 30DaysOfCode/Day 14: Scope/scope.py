@@ -11,7 +11,6 @@ class Difference:
                 self.maximumDifference = max(self.maximumDifference, difference)
 
 # End of Difference class
-
 _ = input()
 a = [int(e) for e in input().split(' ')]
 
