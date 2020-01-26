@@ -3,7 +3,7 @@
 import string
 
 #basically what we are doing is
-# we split each word at space and applying string.capitalize and then
+#we split each word at space and applying string.capitalize and then
 def capitalize(a):
     print (' '.join(map(string.capitalize, a.split(' '))))
 
